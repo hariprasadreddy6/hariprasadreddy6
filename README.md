@@ -36,9 +36,15 @@ Production-grade RAG service: FastAPI + LangGraph, hybrid dense/sparse retrieval
 **[mcp-cli-chatbot](https://github.com/hariprasadreddy6/mcp-cli-chatbot)**
 Tool-using AI agent over MCP: securely calls external tools through defined interfaces from the command line.
 
+**[multi-agent-research-system](https://github.com/hariprasadreddy6/multi-agent-research-system)**
+LangGraph supervisor orchestrating planner, researcher, and validator agents with tool calling, structured outputs, retry and failure handling, trace logging, and an evaluation harness.
+
+**[ai-observability-dashboard](https://github.com/hariprasadreddy6/ai-observability-dashboard)**
+Observability service for LLM applications: ingests inference events, tracks latency, cost, and quality, and explores traces in a Streamlit dashboard.
+
 ## Currently building
 
-Multi-agent research system: planner/researcher/validator agents with tool calling, structured outputs, and failure handling. Next up: AI observability dashboard and cloud deployment guides.
+Agentic document processing system next, then cloud deployment guides.
 
 ## Contact
 
